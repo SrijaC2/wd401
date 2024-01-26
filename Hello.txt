@@ -1,1 +1,3 @@
-Hello, This is main file
+Hello, This is main file.
+
+This is text from branch 2.
